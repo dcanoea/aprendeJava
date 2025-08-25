@@ -33,19 +33,19 @@ public class Ej_001 {
                     comprobador = true;
                     break;
                 case "martes":
-                    System.out.println("Matemáticas");
+                    System.out.println("Lenguaje");
                     comprobador = true;
                     break;
                 case "miercoles":
-                    System.out.println("Matemáticas");
+                    System.out.println("Inglés");
                     comprobador = true;
                     break;
                 case "jueves":
-                    System.out.println("Matemáticas");
+                    System.out.println("Educación Física");
                     comprobador = true;
                     break;
                 case "viernes":
-                    System.out.println("Matemáticas");
+                    System.out.println("Música");
                     comprobador = true;
                     break;
                 default:
